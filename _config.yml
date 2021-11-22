@@ -20,10 +20,10 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-csv
 # title of site appears in banner
 title: Leo Ames Papers
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: A collection of promotional artwork by Leo Ames for the University of Idaho.
+tagline: "A collection of working drawings, final designs, and other materials by Leo Ames for the University of Idaho from 1967-1994."
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "A collection of" 
+description: "A collection of materials including poster designs, working drafts, correspondence, and office files from Leo Ames' time as the University of Idaho's creative director and head of publications." 
 
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
 keywords: idaho;history;inland northwest
