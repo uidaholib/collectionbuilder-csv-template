@@ -8,31 +8,35 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="ames003" %} 
+{% include feature/jumbotron.html objectid="ames007" %} 
 
-{% include feature/nav-menu.html sections="About CollectionBuilder SA;About the About Page" %}
+{% include feature/nav-menu.html sections="About the Collection;About Leo Ames;More Information;Sources" %}
 
 ## About the Collection
 
-This collection contains various posters, drafts, and promotional material created by Leo Ames for the University of Idaho. These materials were given to the University by Julia Ames, daughter of Leo Ames in 2021. 
+This collection contains various materials including poster designs, promotional artwork, and working drafts created by Leo Ames for the University of Idaho from 1967-1994. Other materials include correspondence and office files regarding the creation of the university logos and its use in university branding during Ames' time as the U of I's creative director and head of publications. Promotional artwork include posters and booklets advertising university events and the existing logo at the time. These materials were given to the University by Julia Ames, daughter of Leo Ames in 2021. The entire collection consists of two oversized boxes and six letter-sized boxes. 
+
+**This digital collection is in the process of being digitized. The items currently displayed are from one oversized box.**
+
+{% include feature/image.html objectid="ames036" width="75" %}
 
 ## About Leo Ames
 
-Leo Edwin Ames was born on February 14, 1933 and raised in Heyburn, Idaho. His love for art began young. He completed his first oil painting at seventeen. His love for painting ultimately led to college, where he majored in Art at the University of Idaho. His instructors included Alfred Dunn, Charles Bartell, Arnold Westerlund, and Mary Kirkwood. Ames graduated in 1965 with a degree in Journalism and Art. Ames eventually returned to the University of Idaho to pursue an MFA. After which, Ames worked at the University and channeled / contributed his creativity and artistic skills, eventually becoming the Creative Director of Publications at the University of Idaho, different roles including designing, illustrating, and photographing for the University. Ames retired three decades later in 1995 as creative director and head of publications. Ames resumed plein air painting after retirement. Ames passed away in 2004. There is now a Leo Edwin Ames Arts Scholarship Endowment in his name.
-
-In addition to his artistic career, Leo Ames was active in local Moscow and Idaho politics. Ames was a member of the University of Idaho Women's Caucus, which was "instrumental"to affirmative action and the development of the U of I Women's Center. 
-
+Leo Edwin Ames was born on February 14, 1933 and raised in Heyburn, Idaho where his love for art began. Ames attended the University of Idaho and graduated in 1965 with a degree in Journalism. He married fellow student Lela May Talbott in April 1954. Ames worked at the university and contributed his creativity and artistic skills by designing, illustrating, and photographing for the school. After three decades of dedicated service, Ames retired in 1995 as the creative director and head of publications.
 
 {% include feature/pdf.html objectid="ames035" width="50" %}
 
-# Related collections
-Julia Ames Collection on Leo Ames Artwork, 2017 https://archiveswest.orbiscascade.org/ark:/80444/xv222835/op=fstyle.aspx?t=i&q=idu 
+{% include feature/pdf.html objectid="ames005" width="50" %}
 
-Campus Art collection?
+In addition to his artistic and graphic design career, Leo Ames was active in local Moscow and Idaho politics. Ames was a member of the University of Idaho Women's Caucus, which was crucial in the establishment of affirmative action and the development of the U of I Women's Center. Ames resumed plein air painting after his retirement. Ames passed away in 2004. [^1] 
 
+## More Information
 
-# Sources
-https://archiveswest.orbiscascade.org/ark:/80444/xv428602/ 
+ {% include feature/button.html text="To access the finding aid to the Leo Ames collection " link="https://archiveswest.orbiscascade.org/ark:/80444/xv428602/" color="success" %} 
 
-"Leo Ames," obituary, Moscow-Pullman Daily News, 20 May 2004, dnews.com https://dnews.com/local/leo-ames-71-moscow-resident/article_a39d1d41-0d68-5f22-b898-0800426831c5.html
+ {% include feature/button.html text=" To explore a related collection: *Julia Ames Collection on Leo Ames Artwork*" link="https://archiveswest.orbiscascade.org/ark:/80444/xv222835/op=fstyle.aspx?t=i&q=idu" color="success" %}
+ 
 
+## Sources
+
+[^1]: [Leo Ames, 71, Moscow resident](https://dnews.com/local/leo-ames-71-moscow-resident/article_a39d1d41-0d68-5f22-b898-0800426831c5.html), Moscow-Pullman Daily News, https://dnews.com/local/leo-ames-71-moscow-resident/article_a39d1d41-0d68-5f22-b898-0800426831c5.html Accessed 22 November 2021.
