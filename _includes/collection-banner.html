@@ -16,8 +16,17 @@
         padding-bottom: 5em; 
     }
 }
+.liblogo-corner {
+    border-bottom-left-radius: .25rem;
+}
+.liblogo-corner img{height: 40px;}
 </style>
 <div id="home-banner" class="container-fluid mb-0 p-0">
+    
+    <a class="d-none d-md-block float-right title-card p-3 liblogo-corner" href="https://www.lib.uidaho.edu/" target="_blank" rel="noopener">
+        <img alt="University of Idaho Library home" src="https://www.lib.uidaho.edu/media/digital/liblogo_transparent.png" >
+    </a>
+    
     <div id="home-title-box">
         <div class="title-card p-2 text-center">
             <a class="d-none d-md-block" href="{{ site.organization-link }}" target="_blank" rel="noopener">
@@ -40,7 +49,7 @@
         </div>
         <div class="col-md-3 d-none d-lg-block text-right">
             <a class="btn btn-outline-light" href="{{ site.organization-link }}" target="_blank" rel="noopener">
-                <img class="img-fluid" src="{{ site.organization-logo-banner | relative_url }}" title="{{ site.organization-name }}" alt="{{ site.organization-name }} home" >
+                <img class="img-fluid" src="https://www.lib.uidaho.edu/media/images/ui_library_horizontal.png" title="{{ site.organization-name }}" alt="{{ site.organization-name }} home" >
             </a>
         </div>
     </div>
