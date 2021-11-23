@@ -32,10 +32,13 @@ In addition to his artistic and graphic design career, Leo Ames was active in lo
 
 ## More Information
 
- {% include feature/button.html text="To access the finding aid to the Leo Ames collection " link="https://archiveswest.orbiscascade.org/ark:/80444/xv428602/" color="success" %} 
+<div class="text-center"> 
+ {% include feature/button.html text="Leo Ames collection finding aid" link="https://archiveswest.orbiscascade.org/ark:/80444/xv428602/" color="success" %} 
+</div>
 
- {% include feature/button.html text=" To explore a related collection: *Julia Ames Collection on Leo Ames Artwork*" link="https://archiveswest.orbiscascade.org/ark:/80444/xv222835/op=fstyle.aspx?t=i&q=idu" color="success" %}
- 
+<div class="text-center pt-2"> 
+ {% include feature/button.html text="Related collection: *Julia Ames Collection on Leo Ames Artwork*" link="https://archiveswest.orbiscascade.org/ark:/80444/xv222835/op=fstyle.aspx?t=i&q=idu" color="success" %}
+</div>
 
 ## Sources
 
