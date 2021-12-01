@@ -40,6 +40,10 @@ In addition to his artistic and graphic design career, Leo Ames was active in lo
  {% include feature/button.html text="Related collection: *Julia Ames Collection on Leo Ames Artwork*" link="https://archiveswest.orbiscascade.org/ark:/80444/xv222835/op=fstyle.aspx?t=i&q=idu" color="success" %}
 </div>
 
+<div class="text-center pt-2"> 
+ {% include feature/button.html text="Related collection: *Arognaut Photograph Collection*" link="https://www.lib.uidaho.edu/digital/argonautphotos/browse.html#Leo%20Ames" color="success" %}
+</div>
+
 ## Sources
 
 [^1]: [Leo Ames, 71, Moscow resident](https://dnews.com/local/leo-ames-71-moscow-resident/article_a39d1d41-0d68-5f22-b898-0800426831c5.html), Moscow-Pullman Daily News, https://dnews.com/local/leo-ames-71-moscow-resident/article_a39d1d41-0d68-5f22-b898-0800426831c5.html Accessed 22 November 2021.
