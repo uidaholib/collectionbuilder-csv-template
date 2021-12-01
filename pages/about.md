@@ -37,11 +37,11 @@ In addition to his artistic and graphic design career, Leo Ames was active in lo
 </div>
 
 <div class="text-center pt-2"> 
- {% include feature/button.html text="Related collection: *Julia Ames Collection on Leo Ames Artwork*" link="https://archiveswest.orbiscascade.org/ark:/80444/xv222835/op=fstyle.aspx?t=i&q=idu" color="success" %}
+ {% include feature/button.html text="Related collection: <i>Julia Ames Collection on Leo Ames Artwork</i>" link="https://archiveswest.orbiscascade.org/ark:/80444/xv222835/op=fstyle.aspx?t=i&q=idu" color="success" %}
 </div>
 
 <div class="text-center pt-2"> 
- {% include feature/button.html text="Related collection: *Arognaut Photograph Collection*" link="https://www.lib.uidaho.edu/digital/argonautphotos/browse.html#Leo%20Ames" color="success" %}
+ {% include feature/button.html text="Related collection: <i>Arognaut Photograph Collection</i>" link="https://www.lib.uidaho.edu/digital/argonautphotos/browse.html#Leo%20Ames" color="success" %}
 </div>
 
 ## Sources
