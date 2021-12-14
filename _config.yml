@@ -1,5 +1,7 @@
 ##########
-# collectionbuilder-csv
+# customized version of collectionbuilder-csv 
+# for use with University of Idaho Library Digital Collections
+#
 # Jekyll Digital Collection Generator
 # https://github.com/CollectionBuilder/collectionbuilder-csv
 ##########
@@ -12,7 +14,10 @@ url: https://www.lib.uidaho.edu
 # path to location on the domain if necessary e.g. /digital/hjccc
 baseurl: /demo
 # location of code, the full url to your github repository
-source-code: https://github.com/CollectionBuilder/collectionbuilder-csv
+source-code: https://github.com/uidaholib/collectionbuilder-csv-template
+
+# url to the shared assets folder on Digital
+digital-assets: https://www.lib.uidaho.edu/assets
 
 ##########
 # SITE SETTINGS

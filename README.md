@@ -1,6 +1,10 @@
-# CollectionBuilder-CSV
+# CollectionBuilder-CSV-Template
 
-**Note: CollectionBuilder-CSV is currently in an active development phase and may differ from the main CollectionBuilder documentation, including the metadata template. Please check "docs" folder in this project for up to date information.**
+A customized version of CollectionBuilder-CSV for use with University of Idaho Library Digital Collections.
+
+----------
+
+# CollectionBuilder-CSV
 
 CollectionBuilder-CSV is a robust and flexible "stand alone" template for creating digital collection and exhibit websites using Jekyll and a metadata CSV.
 Driven by your collection metadata, the template generates engaging visualizations to browse and explore your objects.
