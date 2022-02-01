@@ -14,6 +14,10 @@ credits: true
 
 The [Idaho Bach Festival](https://www.uidaho.edu/class/music/events/bach-festival) is a community event celebrating the work of Johann Sebastian Bach and other composers of the seventeenth and eighteenth centuries in performances by University of Idaho's [Lionel Hampton School of Music](https://www.uidaho.edu/class/music) faculty and students, and guest artists from other universities in the region.
 
+{% include feature/image.html objectid="/assets/img/Bach_Seal.svg" alt="Bach's seal with J S B" width="25" %}
+
+{% include feature/image.html objectid="/assets/img/UI_LHSM_horizontal_4c.png" alt="University of Idaho LHSM" width="25" link="https://www.uidaho.edu/class/music" %}
+
 The festival was founded in 2011 by Michael Murphy, director of choral studies at the Lionel Hampton School of Music. 
 It is now co-directed by cello professor Miranda Wilson and voice professors Christopher Pfund and Lynette Pfund.
 
