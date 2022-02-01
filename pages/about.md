@@ -8,26 +8,15 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %} 
+{% include feature/jumbotron.html objectid="/assets/img/bwv1001-cropped2.jpg" %} 
 
-{% include feature/nav-menu.html sections="About CollectionBuilder SA;About the About Page" %}
+## About The Idaho Bach Festival
 
-## About CollectionBuilder CSV
+The [Idaho Bach Festival](https://www.uidaho.edu/class/music/events/bach-festival) is a community event celebrating the work of Johann Sebastian Bach and other composers of the seventeenth and eighteenth centuries in performances by University of Idaho's [Lionel Hampton School of Music](https://www.uidaho.edu/class/music) faculty and students, and guest artists from other universities in the region.
 
-This demo collection features items from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital/), and is build using [CollectionBuilder-CSV](https://github.com/CollectionBuilder/collectionbuilder-csv).
+The festival was founded in 2011 by Michael Murphy, director of choral studies at the Lionel Hampton School of Music. 
+It is now co-directed by cello professor Miranda Wilson and voice professors Christopher Pfund and Lynette Pfund.
 
-CollectionBuilder-CSV is a "Stand Alone" template for creating digital collection and exhibit websites using Jekyll, given:
+This digital collection provides access to programs, posters, and other materials documenting the Idaho Bach Festival through its history.
 
-- a CSV of collection metadata
-- a folder of images, PDFs, audio, or video files
-
-Driven by your collection metadata, the template generates engaging visualizations to browse and explore your objects.
-The resulting static site can be hosted on any basic web server.
-
-[CollectionBuilder](https://github.com/CollectionBuilder/) is an set of open source tools for creating digital collection and exhibit websites that are driven by metadata and powered by modern static web technology.
-See [CB Docs](https://collectionbuilder.github.io/cb-docs/) for detailed information.
-
-{% include feature/image.html objectid="demo_001" width="75" %} 
-
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
+{% include feature/image.html objectid="idaho-bach-festival-11-poster" width="75" %} 
