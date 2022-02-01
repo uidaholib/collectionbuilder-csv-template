@@ -1,6 +1,7 @@
 field,display_name,btn,hidden,sort_name
 date,Date,,,Date
-creator,Creator,,,
-subject,,true
-location,,true
+item_type,Type,
+guest_scholar,Guest,
+artistic_directors,Directors,
+location,Locations,
 identifier,,,true,Identifier

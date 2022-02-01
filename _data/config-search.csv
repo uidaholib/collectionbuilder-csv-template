@@ -1,7 +1,7 @@
 field,index,display
 title,true,true
 date,true,true
-creator,true,false
+artistic_directors,true,false
 description,true,true
-subject,true,true
+guest_scholar,true,true
 location,true,false
