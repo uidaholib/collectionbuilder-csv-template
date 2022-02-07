@@ -20,29 +20,31 @@ This collection was given to the University of Idaho from Dick Magnuson, a longt
 
 ## About George Tabor
 
-George Tabor was born on November 1, 1894. His father, Jesse Tabor, moved from Colorado to Murray, and then to Burke, Idaho. Jesse Tabor eventually opened his first store in Wallace, in 1890 at the West One Bank building site. In 1910, the store moved across the street after a banking firm wanted the property. George Tabor believed the wooden building to be the oldest in town. [^2 George Tabor: The life…] 
+George Tabor was born on November 1, 1894. His father, Jesse Tabor, moved from Colorado to Murray, and then to Burke, Idaho. Jesse Tabor eventually opened his first store in Wallace, in 1890 at the West One Bank building site. In 1910, the store moved across the street after a banking firm wanted the property. George Tabor believed the wooden building to be the oldest in town. [^2]
 
 In 1933, the wooden building burned down and replaced by a brick structure. The night of the fire, the temperature dropped negative 33 degrees, which resulted in icicles on the building. Because of the Great Depression, banks would not loan money to the Tabors for a new building. However, Jack Van Uden of the Wallace Lumber Company loaned the money needed to rebuild the Tabor Store into a two-story brick building with terra cotta ornamentation.
 
 {% include feature/image.html objectid="demo_001" width="75" %}
 
-The Tabor store began as a stationery store that carried some fresh fruit and grew to carry other products such as records and photographs. Later after George Tabor took over, their inventory expanded into home appliances, wallpaper, electronics, and office supplies. George Tabor’s love for photography began young and he was responsible for starting the store’s photography department. His passion for photography has helped preserve Wallace’s past, and his work includes a collection of photographs George took during the Great Fire of 1910. Growing up, George worked at a bowling alley, under the Fuller Hotel building and loved to fish and go camping with his friends and family.  [^3 George Tabor]
+The Tabor store began as a stationery store that carried some fresh fruit and grew to carry other products such as records and photographs. Later after George Tabor took over, their inventory expanded into home appliances, wallpaper, electronics, and office supplies. George Tabor’s love for photography began young and he was responsible for starting the store’s photography department. His passion for photography has helped preserve Wallace’s past, and his work includes a collection of photographs George took during the Great Fire of 1910. Growing up, George worked at a bowling alley, under the Fuller Hotel building and loved to fish and go camping with his friends and family.  [^3]
 
 {% include feature/image.html objectid="demo_001" width="75" %}
 
 {% include feature/image.html objectid="demo_001" width="75" %}
 
-In 1917, George Tabor married Lydia Edmiston in Moscow, Idaho. They had a daughter, Jean Tabor, in 1922. George was very involved in the community and was a member of various local organizations, including the Shoshone Lodge, Order of the Eastern Star, and the Wallace Rotary Club. [insert photo]
+In 1917, George Tabor married Lydia Edmiston in Moscow, Idaho. They had a daughter, Jean Tabor, in 1922. George was very involved in the community and was a member of various local organizations, including the Shoshone Lodge, Order of the Eastern Star, and the Wallace Rotary Club. 
+
+{% include feature/image.html objectid="demo_001" width="75" %}
 
 George retired in 1980 and sold the building to the Lavigne Drug Group. The materials in this collection were found in the basement of the building by the new owners after the Tabor building was sold. George Tabor died on March 5, 1991 at the age of 97.
 
 ## Sources
 
-[^1] Roberts, Carol. 
+[^1]: Roberts, Carol. Treasure trove of photos found in basement of Tabor building.
 
-[^2]
+[^2]: Hanson, Nancy Lee. George Tabor: The life and times of an original Wallace pioneer, *Shoshone News Press.*   
 
-[^3]
+[^3]: Hanson, Nancy Lee. George Tabor: The life and times of an original Wallace pioneer, *Shoshone News Press.*   
 
 
 
