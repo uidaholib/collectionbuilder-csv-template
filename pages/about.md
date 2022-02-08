@@ -44,10 +44,10 @@ For more information on the Tabor collection, please see the *[George W. Tabor P
 
 ## Sources
 
-[^1]: Roberts, Carol. [Treasure trove of photos found in basement of Tabor building](http://127.0.0.1:4000/digital/tabor/items/tabor0364.html), http://127.0.0.1:4000/digital/tabor/items/tabor0364.html.
+[^1]: Roberts, Carol. [Treasure trove of photos found in basement of Tabor building]({{ '/items/tabor0364.html' | relative_url }}), {{ '/items/tabor0364.html' | absolute_url }}.
 
-[^2]: Hanson, Nancy Lee. [George Tabor: The life and times of an original Wallace pioneer](http://127.0.0.1:4000/digital/tabor/items/tabor0365.html), *Shoshone News Press.* http://127.0.0.1:4000/digital/tabor/items/tabor0365.html.  
+[^2]: Hanson, Nancy Lee. [George Tabor: The life and times of an original Wallace pioneer]({{ '/items/tabor0365.html' | relative_url }}), *Shoshone News Press.* {{ '/items/tabor0365.html' | absolute_url }}.  
 
-[^3]: Hanson, Nancy Lee. [George Tabor: The life and times of an original Wallace pioneer](http://127.0.0.1:4000/digital/tabor/items/tabor0365.html), *Shoshone News Press.* http://127.0.0.1:4000/digital/tabor/items/tabor0365.html.  
+[^3]: Hanson, Nancy Lee. [George Tabor: The life and times of an original Wallace pioneer]({{ '/items/tabor0365.html' | relative_url }}), *Shoshone News Press.* {{ '/items/tabor0365.html' | absolute_url }}.  
 
 
