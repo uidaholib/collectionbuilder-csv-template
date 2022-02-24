@@ -14,13 +14,10 @@ credits: true
 
 ## About The Blot Archive
 
-"A student-run magazine since 2004, Blot publishes twice each semester and strives to serve as a contemporary look at the lives of U of I students."
+Began in 1946, [Blot Magazine](https://www.blotmagazine.com/) was a part of the UI Student Media Department, alongside [The Argonaut newspaper](https://www.uiargonaut.com/) and the [Gem of the Mountains yearbook](https://www.lib.uidaho.edu/digital/gem/). Blot was previously the campus humor and literary magazine, but was discontinued during the 1950s due to a lack of funds. After a long hiatus, Blot resumed production in 2004. Blot is presently a quarterly publication, completely produced from start to finish, by University of Idaho students. The magazine publishes a variety of writing, hoping to provide a contemporary perspective on UI students and their experiences.
 
-https://www.blotmagazine.com/
+This digital collection currently contains 46 issues from 2010 to 2021. We hope to digitize the earlier issues that are currently held in the UI Special Collections. 
 
-https://www.blotmagazine.com/about/the-magazine/
-
-Student Media, https://www.uidaho.edu/current-students/department-of-student-involvement/student-media
 
 ![blot logo]({{ '/assets/img/blot_transparent_black.png' | relative_url }}){:.img-fluid}
 
