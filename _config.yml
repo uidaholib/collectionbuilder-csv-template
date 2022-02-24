@@ -23,12 +23,12 @@ digital-assets: https://www.lib.uidaho.edu/assets
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: The Blot Archive
+title: The Blot Magazine Archive
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: University of Idaho's Student Run Magazine
+tagline: Digitized issues of Blot, University of Idaho’s Student Run Magazine
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "A digital collection of University of Idaho's Blot Magazine"
+description: "A digital collection of University of Idaho's Blot Magazine, an entirely student-run publication."
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
 keywords: university of idaho; student media; idaho; journalism
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
