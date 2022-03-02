@@ -3,7 +3,7 @@
 ## Citations
 
 You'll need to cite the sources for your multimedia essay just as you would for any academic essay.
-Whenever possible, use [Turabian Style](https://www.chicagomanualofstyle.org/turabian/turabian-notes-and-bibliography-citation-quick-guide.html){:target="_blank" rel="noopener"} to add your essay citations as footnotes.
+Whenever possible, use [Turabian Style](https://www.chicagomanualofstyle.org/turabian/turabian-notes-and-bibliography-citation-quick-guide.html) to add your citations as footnotes.
 
 To add a footnote in Markdown, directly after the sentence you'd like to cite, add a left square bracket (`[`), followed by a caret symbol (`^`), followed by a footnote number (i.e. `1`, `2`, `3`, etc.), followed by a left square bracket (`]`). See below for an example:
 
@@ -38,8 +38,7 @@ And paste it *after* the parentheses in your hyperlink:
 
 `[GitHub Help](https://help.github.com/){:target="_blank" rel="noopener"}`
 
-This will ensure that your link opens in a new tab, like this: [GitHub Help](https://help.github.com/){:target="_blank" rel="noopener"}
-
+This will ensure that your link opens in a new tab, like this: [GitHub Help](https://help.github.com/)
 ---
 
 ## Horizontal Line Breaks
