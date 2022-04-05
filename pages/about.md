@@ -46,4 +46,4 @@ In addition to his artistic and graphic design career, Leo Ames was active in lo
 
 ## Sources
 
-[^1]: [Leo Ames, 71, Moscow resident](https://dnews.com/local/leo-ames-71-moscow-resident/article_a39d1d41-0d68-5f22-b898-0800426831c5.html), Moscow-Pullman Daily News, https://dnews.com/local/leo-ames-71-moscow-resident/article_a39d1d41-0d68-5f22-b898-0800426831c5.html Accessed 22 November 2021.
+[^1]: "Leo Ames, 71, Moscow resident," Moscow-Pullman Daily News, accessed November 22, 2021, [https://dnews.com/local/leo-ames-71-moscow-resident/article_a39d1d41-0d68-5f22-b898-0800426831c5.html](https://dnews.com/local/leo-ames-71-moscow-resident/article_a39d1d41-0d68-5f22-b898-0800426831c5.html).
