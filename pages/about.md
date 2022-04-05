@@ -14,7 +14,7 @@ credits: true
 
 ## About the Collection
 
-This collection contains various materials including poster designs, promotional artwork, and working drafts created by Leo Ames for the University of Idaho from 1967-1994. Other materials include correspondence and office files regarding the creation of the university logos and its use in university branding during Ames' time as the U of I's creative director and head of publications. Promotional artwork include posters and booklets advertising university events and the existing logo at the time. These materials were given to the University by Julia Ames, daughter of Leo Ames in 2021. The entire collection consists of two oversized boxes and six letter-sized boxes. 
+This collection contains various materials including poster designs, promotional artwork, and working drafts created by Leo Ames for the University of Idaho from 1967-1994. Other materials include correspondence and office files regarding the creation of the university logos and its use in university branding during Ames's time as the U of I's creative director and head of publications. Promotional artwork include posters and booklets advertising university events and the existing logo at the time. These materials were given to the University by Julia Ames, daughter of Leo Ames in 2021. The entire collection consists of two oversized boxes and six letter-sized boxes. 
 
 **This digital collection is in the process of being digitized. The items currently displayed are from one oversized box.**
 
