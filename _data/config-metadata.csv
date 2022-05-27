@@ -1,10 +1,14 @@
 field,display_name,browse_link,external_link,dc_map,schema_map
 title,Title,,,DCTERMS.title,headline
-creator,Creator,,,DCTERMS.creator,creator
 date,Date Created,,,DCTERMS.created,dateCreated
 description,Description,,,DCTERMS.description,description
-subject,Subjects,true,,DCTERMS.subject,keywords
-location,Location,,,,contentLocation
+subjects,Subjects,true,,DCTERMS.subject,keywords
+1st stations,1st Stations,true,,,
+2nd stations,2nd Stations,true,,,
+3rd stations,3rd Stations,true,,,
+4th stations,4th Stations,true,,,
+general manager,General Manager,true,,,
+company name,Company Namem,true,,,
 latitude,Latitude,,,,
 longitude,Longitude,,,,
 source,Source,,,,
