@@ -28,6 +28,33 @@ You can create hyperlinks in Markdown like this:
 
 `[GitHub Help](https://help.github.com/)`
 
+When linking to pages within the same collection, use Jekyll's `relative_url` feature. 
+Instead of writing out https://www.lib.uidaho.edu on an About page you should use the liquid relative_url formula:
+
+**Don't** do this:
+
+[family](https://www.lib.uidaho.edu/digital/priestlake/browse.html#families)
+
+**Do** this:
+
+[family]({{ '/browse.html#families' | relative_url }})
+
+Here's another example:
+
+**Don't** do this:
+
+[stage](https://www.lib.uidaho.edu/digital/priestlake/items/priestlake244.html)
+
+**Do** this:
+
+[stage]({{ '/items/priestlake244.html' | relative_url }})
+
+### Open a link in a new browser tab
+
+Example:
+
+[family]({{ '/browse.html#families' | relative_url }}){:target="_blank" rel="noopener"}
+
 You've probably noticed that hyperlinks created this way cause a new website to open in your browser's *current tab*.
 Sometimes this is what you want to happen, but there will be other times where you'd like a link to open in a *new browser tab* when a user clicks on it.
 To make this happen, you'll need to copy and paste the snippet of text below to the *end* of your hyperlink parentheses:
