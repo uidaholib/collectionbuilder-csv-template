@@ -14,7 +14,7 @@ credits: true
 
 ## About the Collection
 
-This digital collection consists of 137 documents from the Camas Prairie Railroad collection ranging from 1909 to 1997 including time tables intended for employee use and special notices. Each time table includes the train schedules, as well as general and special instructions. 
+This digital collection consists of 137 documents from the Camas Prairie Railroad collection ranging from 1909 to 1997, including time tables intended for employee use and special notices. Each time table includes the train schedule, as well as general and special instructions. 
 
 In these time tables, the main subdivision routes were:
 - Lewiston, ID to Riparia, WA
