@@ -90,13 +90,14 @@ Fitzgerald used to tap her left foot while she was performing, so the right heel
 
 ---
 
-{:.pt-5}
-This collection was produced by **Destiny Angel-Hubble**, [2021 Berry International Jazz Fellow](https://www.lib.uidaho.edu/special-collections/berry-ijc-fellowship.html). Destiny is a senior studying music performance and jazz studies. She moved to Nampa, Idaho in the seventh grade to live with her aunt, where she started her journey with music. Often the only woman in an ensemble, a major part of Destiny's journey in college has been advocating for women in music, and she hopes her presence in male-dominated spaces encourages young women to pursue music. Coming close to the end of her senior year, Destiny has a slew of ideas for what the future might hold, and is interested in auditioning for cruise ships, working in libraries, or freelancing. Whatever she might end up doing post graduation, she believes that music will always be a major part of her life and will continue to shape who she is as a person.
+## About the Collection
+
+This digital collection was created using materials from the [Collection on Ella Fitzgerald]( https://archiveswest.orbiscascade.org/ark:/80444/xv28439) from the University of Idaho Library’s [International Jazz Collections](https://www.ijc.uidaho.edu/). The collection consists primarily of materials donated by the Estate of Ella Fitzgerald, including photographs, posters, record covers, and clothing, as well as a few materials donated by others relating to Ella Fitzgerald.
+
+### Collection Curator
+
+This collection was produced by **Destiny Angel-Hubble**, University of Idaho [2021 Berry International Jazz Fellow](https://www.lib.uidaho.edu/special-collections/berry-ijc-fellowship.html). Destiny is a senior studying music performance and jazz studies. She moved to Nampa, Idaho in the seventh grade to live with her aunt, where she started her journey with music. Often the only woman in an ensemble, a major part of Destiny's journey in college has been advocating for women in music, and she hopes her presence in male-dominated spaces encourages young women to pursue music. Coming close to the end of her senior year, Destiny has a slew of ideas for what the future might hold, and is interested in auditioning for cruise ships, working in libraries, or freelancing. Whatever she might end up doing post graduation, she believes that music will always be a major part of her life and will continue to shape who she is as a person.
 
 Destiny first attended the Lionel Hampton Jazz Festival at the University of Idaho in 2017 to hear one of her favorite artists, Esperanza Spalding, who was the headliner that year. This concert inspired Destiny to pursue music in higher education, and while she still loves the night concerts, one of her favorite parts of the festival now is volunteering. She loves getting to know local musicians and pick their brains on all things music-related. 
 
 As the 2021-2022 Berry International Jazz Collection Fellow, Destiny worked with the University of Idaho Special Collections' Ella Fitzgerald collection to produce this digital collection, a workshop presentation, and a physical archival exhibit, all of which tell parts of Fitzgerald's story most fans might not know about through the lens of fashion. Destiny believes discussing exciting things like fashion help to grab people's attention and help them understand large issues like sexism, fatphobia, and racism. After this process, Destiny hopes to continue to learn and educate herself and others on these issues. 
-
-## About the Collection
-
-This digital collection was created using materials from the [Collection on Ella Fitzgerald]( https://archiveswest.orbiscascade.org/ark:/80444/xv28439) from the University of Idaho Library’s [International Jazz Collections](https://www.ijc.uidaho.edu/). The collection consists primarily of materials donated by the Estate of Ella Fitzgerald, including photographs, posters, record covers, and clothing, as well as a few materials donated by others relating to Ella Fitzgerald.
