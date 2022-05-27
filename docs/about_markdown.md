@@ -62,6 +62,7 @@ And paste it *after* the parentheses in your hyperlink:
 `[GitHub Help](https://help.github.com/){:target="_blank" rel="noopener"}`
 
 This will ensure that your link opens in a new tab, like this: [GitHub Help](https://help.github.com/)
+
 ---
 
 ## Horizontal Line Breaks
@@ -132,3 +133,19 @@ The two values inside the quotation marks correspond to headings in the default 
 
 **In order for the contents box to work correctly, the word in the Table of Contents Include needs to match a heading somewhere in your essay.**
 When you click on the links in the table of contents, and your page will automatically scroll down to the corresponding section.
+
+---
+
+## Block Quotes
+
+Add a block quote to your About page using the block quote include:
+
+`{% raw %}{% include feature/blockquote.html quote="Knowledge comes, but wisdom lingers" speaker="Alfred Lord Tennyson" source="Locksley Hall" %}{% endraw %}`
+
+Options:
+- "quote" = quote text, can use Markdown
+- "speaker" = name of the person who said the quote
+- "source" = title of the quote's source
+- "source-link" = link to source
+
+See additional instructions and example at the top of the `/_includes/feature/blockquote.html` file.
