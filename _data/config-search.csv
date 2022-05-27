@@ -1,7 +1,12 @@
 field,index,display
 title,true,true
 date,true,true
-creator,true,false
+1st stations,true,true
+2nd stations,true,true
+3rd stations,true,true
+4th stations,true,true
+general manager,true,true
+company name,true,true
 description,true,true
-subject,true,true
-location,true,false
+subjects,true,true
+
