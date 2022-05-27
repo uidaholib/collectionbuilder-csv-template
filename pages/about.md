@@ -30,10 +30,7 @@ Of the tours she did, the Jazz at the Philharmonic (JATP) tours stand out. JATP 
 
 Though Fitzgerald faced many hardships like racism and fatphobia, she always continued to sing beautiful music for everyone. From great jazz musicians to casual listeners we all have to thank Fitzgerald for the humanity she always put into her music. 
 
-<blockquote class="blockquote pt-3 pb-5">
-  <p class="mb-0">I guess what everyone wants more than anything else is to be loved. And to know that you loved me for my singing is too much for me. Forgive me if I don't have all the words. Maybe I can sing it and you'll understand.</p>
-  <footer class="blockquote-footer text-right">Ella Fitzgerald, <cite title="Source Title">"<a href="http://www.ellafitzgerald.com/about/quotes" target="_blank" rel="noopener">Quotes</a>"</cite></footer>
-</blockquote>
+{% include feature/blockquote.html quote="I guess what everyone wants more than anything else is to be loved. And to know that you loved me for my singing is too much for me. Forgive me if I don't have all the words. Maybe I can sing it and you'll understand." speaker="Ella Fitzgerald" source="Quotes" source-link="http://www.ellafitzgerald.com/about/quotes" %}
 
 ---
 
