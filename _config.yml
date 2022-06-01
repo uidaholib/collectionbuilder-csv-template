@@ -23,14 +23,14 @@ digital-assets: https://www.lib.uidaho.edu/assets
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: Camas Prairie Railroad Collection
+title: Camas Prairie Railroad Time Tables
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Documents from the Camas Prairie Railroad collection (MA2016-25 NPRHA Time Tables)
+tagline: Time Table Documents from the Camas Prairie Railroad, operated by Northern Pacific Railway
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "A digital collection consisting of time tables and special notices from the Camas Prairie Railroad between 1909 and 1997."
+description: "A digital collection consisting of time tables and special notices from the Camas Prairie Railroad between 1909 and 1997. The Camas Prairie Railroad's territory extended from northern Idaho across the state border to southeast Washington."
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
-keywords: idaho;history;inland northwest
+keywords: idaho;railroads;camas prairie,history;inland northwest
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: kxu 
 # Organization branding
