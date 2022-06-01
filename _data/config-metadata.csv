@@ -3,10 +3,10 @@ title,Title,,,DCTERMS.title,headline
 date,Date Created,,,DCTERMS.created,dateCreated
 description,Description,,,DCTERMS.description,description
 subjects,Subjects,true,,DCTERMS.subject,keywords
-1st stations,1st Stations,true,,,
-2nd stations,2nd Stations,true,,,
-3rd stations,3rd Stations,true,,,
-4th stations,4th Stations,true,,,
+1st stations,First Subdivision Stations,true,,,
+2nd stations,Second Subdivision Stations,true,,,
+3rd stations,Third Subdivision Stations,true,,,
+4th stations,Fourth Subdivision Stations,true,,,
 general manager,General Manager,true,,,
 company name,Company Namem,true,,,
 latitude,Latitude,,,,

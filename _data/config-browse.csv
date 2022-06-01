@@ -1,10 +1,10 @@
 field,display_name,btn,hidden,sort_name
 date,Date,,,Date
 general manager,General Manager,true
-company name,Company Name,true
-1st stations,1st Stations,,true
-2nd stations,2nd Stations,,true
-3rd stations,3rd Stations,,true
-4th stations,4th Stations,,true
+company name,,true
+1st stations,,,true
+2nd stations,,,true
+3rd stations,,,true
+4th stations,,,true
 subjects,,true
 identifier,,,true,Identifier
