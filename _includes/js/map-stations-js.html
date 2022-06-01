@@ -1,6 +1,6 @@
 {%- assign items = site.data[site.metadata] | where_exp: 'item','item.objectid' | where_exp: 'item','item.latitude != nil and item.longitude != nil' -%}
 {%- assign fields = site.data.config-map -%}
-{%- assign locations = site.data.cprr-locations -%}
+{%- assign locations = site.data.camasrailroad-locations -%}
 <!-- load leaflet dependencies -->
 <script src="{{ '/leaflet/leaflet.js' | prepend: site.digital-assets }}"></script>
 {% if site.data.theme.map-search == true %}<script src="{{ '/leaflet/fuse.min.js' | prepend: site.digital-assets }}"></script>
