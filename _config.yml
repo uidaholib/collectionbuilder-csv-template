@@ -32,7 +32,7 @@ description: "A digital collection of blueprints and associated correspondence f
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
 keywords: idaho;history;inland northwest
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: kxu
+author: kxuidaho
 # Organization branding
 organization-name: "Digital Initiatives, University of Idaho Library"
 organization-link: https://www.lib.uidaho.edu/digital/
