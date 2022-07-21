@@ -4,6 +4,7 @@ creator,Creator,,,DCTERMS.creator,creator
 architect,Architect,,,
 drawn,Drawn,,,
 traced,Traced,,,,
+scale,Scale,,,
 date,Date Created,,,DCTERMS.created,dateCreated
 description,Description,,,DCTERMS.description,description
 subject,Subjects,true,,DCTERMS.subject,keywords
