@@ -25,10 +25,10 @@ digital-assets: https://www.lib.uidaho.edu/assets
 # title of site appears in banner
 title: Craig Mountain Lumber Company
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Blueprints and correspondence from MG 12, the Craig Mountain Lumber Company Records collection
+tagline: Blueprints and correspondence from the Craig Mountain Lumber Company and Sawmill.
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "A digital collection of blueprints and associated correspondence from MG 12, the Craig Mountain Lumber Company Records collection. These digitized items are from Box 1 of the collection and span the years 1904 to 1980."
+description: "This collection contains blueprints and correspondence from the Craig Mountain Lumber Company and Sawmill in Winchester, Lewis County, Idaho. The correspondence in this collection mostly documents the process of reopening of the mill in 1923 after demand for lumber declined a few years prior." 
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
 keywords: idaho;history;inland northwest
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
