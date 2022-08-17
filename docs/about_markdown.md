@@ -121,7 +121,7 @@ If you do incorporate headings, you'll probably find it convenient to make use o
 
 The table of contents is generated from the include that looks like this:
 
-`{% raw %}{% include feature/nav-menu.html sections="About CollectionBuilder SA;About the About Page" %}{% endraw %}`
+`{% include feature/nav-menu.html sections="About CollectionBuilder SA;About the About Page" %}`
 
 "sections" is followed by an equals sign (`=`) and values separated by semicolons and encased with quotation marks.
 
@@ -140,7 +140,7 @@ When you click on the links in the table of contents, and your page will automat
 
 Add a block quote to your About page using the block quote include:
 
-`{% raw %}{% include feature/blockquote.html quote="Knowledge comes, but wisdom lingers" speaker="Alfred Lord Tennyson" source="Locksley Hall" %}{% endraw %}`
+`{% include feature/blockquote.html quote="Knowledge comes, but wisdom lingers" speaker="Alfred Lord Tennyson" source="Locksley Hall" %}`
 
 Options:
 - "quote" = quote text, can use Markdown
