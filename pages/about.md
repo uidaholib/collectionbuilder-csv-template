@@ -8,7 +8,7 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="/assets/img/blot_header_0002_cr.jpg" padding="4em" %} 
+{% include feature/jumbotron.html objectid="/assets/img/blot_header_0010_cr.jpg" padding="4em" %} 
 
 {% include feature/nav-menu.html sections="About The Blot Archive" %}
 
