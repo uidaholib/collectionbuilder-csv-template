@@ -40,4 +40,4 @@ In working with these materials, a story slowly formed - one about capable women
 
 ## Sources
 
-[^1]: Historical Notes: These historical references are legacy pages created by the Women of Natural Resources, including brief comments from editors and columnists on [Life Experiences and Advocacy for Gender Equity](https://www.webpages.uidaho.edu/winr/winrgroup.htm){:target="_blank" rel="noopener"} and a sample of [Past Articles](https://www.webpages.uidaho.edu/winr/){:target="_blank" rel="noopener"}, published online only between 2001 and 2013. 
+[^1]: Historical Notes: These historical references are legacy pages created by the Women of Natural Resources, including brief comments from editors and columnists on [Life Experiences and Advocacy for Gender Equity](https://www.webpages.uidaho.edu/winr/winrgroup.htm){:target="_blank" rel="noopener"}(Archived: https://perma.cc/38MA-EZDS) and a sample of [Past Articles](https://www.webpages.uidaho.edu/winr/){:target="_blank" rel="noopener"}(Archived: https://perma.cc/6HQ6-YV2U), published online only between 2001 and 2013. 
