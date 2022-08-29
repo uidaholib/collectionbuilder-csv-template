@@ -18,9 +18,9 @@ The [Blot Magazine](https://www.blotmagazine.com/) began in 1946 as a part of th
 
 ![blot logo]({{ '/assets/img/blot_transparent_black.png' | relative_url }}){:.img-fluid .mb-4}
 
-This digital collection currently contains 46 issues from 2010 to 2021. 
-These PDFs were created by Blot staff and originally published on ISSUU to provide digital access in addition to their print magazine.
-We will be digitizing earlier issues that are held in the U of I Special Collections.
+This digital collection currently contains 21 issues from 1946 to 1951 and 64 issues from 2005 to 2021. 
+The PDFs starting from 2010 were created by Blot staff and originally published on ISSUU to provide digital access in addition to their print magazine.
+
 
 ## Acknowledgements
 
