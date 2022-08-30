@@ -30,3 +30,5 @@ Since 2010 PDFs were created by Blot staff and originally published on ISSUU to 
 ## Acknowledgements
 
 We would like to thank Tara Roberts, former Student Media Manager, for her help coordinating the transfer of files for access and preservation of this publication--and for her vital support of amazing student media at U of I!
+
+{% include feature/image.html objectid="https://www.lib.uidaho.edu/digital/blot/assets/img/blot_header_0002_cr.jpg" width="50" %} 
