@@ -2,12 +2,9 @@ field,display_name,browse_link,external_link,dc_map,schema_map
 title,Title,,,DCTERMS.title,headline
 date,Date Created,,,DCTERMS.created,dateCreated
 description,Contents,,,DCTERMS.description,description
-editors,Editors,true,,DCTERMS.editor,editor
-location,Location,,,,contentLocation
-latitude,Latitude,,,,
-longitude,Longitude,,,,
+editors,Editors,true,,DCTERMS.creator,editor
+publisher,Publisher,,,DCTERMS.publisher,publisher
 source,Source,,,,
-identifier,Source Identifier,,,,
 type,Type,,,DCTERMS.type,
 format,Format,,,,encodingFormat
 rightsstatement,,,,DCTERMS.rights,license
