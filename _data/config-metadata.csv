@@ -2,7 +2,7 @@ field,display_name,browse_link,external_link,dc_map,schema_map
 title,Title,,,DCTERMS.title,headline
 date,Date Created,,,DCTERMS.created,dateCreated
 description,Contents,,,DCTERMS.description,description
-editor,Editors,true,,DCTERMS.editor,editor
+editors,Editors,true,,DCTERMS.editor,editor
 location,Location,,,,contentLocation
 latitude,Latitude,,,,
 longitude,Longitude,,,,
