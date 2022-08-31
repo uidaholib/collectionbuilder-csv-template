@@ -1,5 +1,5 @@
 field,index,display
 title,true,true
 date,true,true
-editor,true,true 
+editors,true,true 
 description,true,true
