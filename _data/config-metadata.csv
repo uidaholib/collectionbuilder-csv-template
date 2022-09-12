@@ -10,5 +10,6 @@ longitude,Longitude,,,,
 source,Source,,,,
 identifier,Source Identifier,,,,
 type,Type,,,DCTERMS.type,
+format original,Format Original,,,,
 format,Format,,,,encodingFormat
 rightsstatement,,,,DCTERMS.rights,license
