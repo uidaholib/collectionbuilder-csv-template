@@ -25,8 +25,7 @@ digital-assets: https://www.lib.uidaho.edu/assets
 # title of site appears in banner
 title: Gem of the Mountains Yearbook Photographic Archive
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Black and white negatives from PG 101, the Gem of the Mountains Yearbook Photograph Collection (1948-1967).
-# description appears in meta tags and other locations
+tagline: Black and white negatives from the Gem of the Mountains Yearbook Photograph Collection.
 # this description might appear in search result lists, keep around 160 characters max
 description: "This digital collection includes several thousand black and white negatives from PG 101, the Gem of the Mountains Yearbook Photograph Collection from 1948-1967. Featuring photographs depicting U of I campus life and events, student organizations, faculty and administration."
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
