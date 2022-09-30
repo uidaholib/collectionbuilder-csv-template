@@ -30,7 +30,7 @@ Dixie Ehrenreich, managing editor of *WiNR* from 1983 to 1999, was also instrume
 
 ## About the Collection
 
-The Women in Natural Resources records collection, UG 83, was processed as a Special Collections Summer Fellowship project by Floriana Tulli. Flori spent three months not only rehousing the materials into archival folders and boxes, she got to know the history behind the collection and some of the women involved. Flori interviewed three of the instrumental women behind the journal, Dixie Ehrenreich, Jo Ellen Force, and Lauren Fins. A transcript of the conversation with Jo Ellen is included in this collection: 
+This Special Collections Summer Fellowship project was supported through generous donations from Gary and Carolyn Strong and Dixie Ehrenreich. Flori Tulli was chosen to process the Women in Natural Resources collection, UG 83, and to create a digital collection. Flori spent three months not only rehousing the materials into archival folders and boxes, she got to know the history behind the collection and some of the women involved. Flori interviewed three of the instrumental women behind the journal, Dixie Ehrenreich, Jo Ellen Force, and Lauren Fins. A transcript of the conversation with Jo Ellen is included in this collection: 
 
 {% include feature/pdf.html objectid="winr_057" width="50" %}
 
