@@ -47,7 +47,7 @@ $yiq-text-light:            #fff !default;
 }
 /* mixin to create btn-outline */
 @mixin theme-button-outline($color, $color-hover: color-yiq($color), $active-background: $color, $active-border: $color) {
-    color: $color;
+    color: $text-color;
     border-color: $color;
     &:hover {
         color: $color-hover;
