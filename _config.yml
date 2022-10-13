@@ -51,7 +51,7 @@ page_gen:
   - data: 'iwi'
     template: 'iwi'
     name: 'objectid'
-    dir: 'items'
+    dir: 'women'
     extension: 'html' 
     filter: 'objectid'  
 
