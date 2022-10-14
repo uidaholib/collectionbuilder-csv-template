@@ -21,7 +21,7 @@
         "media": {
           "url": "{{ item.image_small | default: item.image_thumb | default: item.object_location | relative_url }}",
           "caption": {{ item.title | jsonify }},
-          "link": "{{ '/items/' | append: item.objectid | append: '.html' | relative_url }}"
+          "link": "{{ '/women/' | append: item.objectid | append: '.html' | relative_url }}"
         },
         "start_date": { 
           {% if item.date contains '-' %}{% assign dates = item.date | strip | split: '-' %}
