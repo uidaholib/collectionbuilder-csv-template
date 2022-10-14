@@ -10,8 +10,6 @@ permalink: /about.html
 
 {% include feature/jumbotron.html objectid="https://www.lib.uidaho.edu/digital/objects/iwi/c04.jpg" %} 
 
-{% include feature/nav-menu.html sections="About CollectionBuilder SA;About the About Page" %}
-
 ## About Idaho's Women of Influence
 
 Idaho's Women of Influence is meant to correct an imbalance in the preserved historical data on women's contribution to Idaho history.
