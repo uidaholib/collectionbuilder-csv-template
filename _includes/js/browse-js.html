@@ -8,6 +8,7 @@ var items = [
     { {% for f in fields %}{% if i[f.field] %}{{ f.field | escape | jsonify }}:{{ i[f.field] | strip | jsonify }}, {%- endif -%}{%- endfor -%}
         {% if i.image_thumb %}"img": {{ i.image_thumb | relative_url | jsonify }}, {%- endif -%} 
         {% if i.display_template %}"template": {{ i.display_template | jsonify }}, {%- endif -%}
+        {% if i.sensitive %} "sensitive": {{ i.sensitive | jsonify }},{%- endif -%}
         {% if i.format %}"format": {{ i.format | jsonify }}, {%- endif -%}
         "title":{{ i.title | strip | escape | jsonify }}, "id":{{ i.objectid | jsonify }} }{% unless forloop.last %},{% endunless %}{%- endfor -%}
 ];
@@ -30,14 +31,23 @@ function makeCard(obj) {
         thumbIcon = getIcon(obj.template,obj.format)
     }
 
+    if(obj.sensitive){
+        var blur = 'blur';
+        var warning = '<p class="text-danger small">Warning: This image is of a graphic nature.</p>';
+    } else{
+        var blur = '';
+        var warning = '';
+
+    }
+
     // start card
     var card = '<div class="item col-lg-4 col-md-6 mb-2"><div class="card">';
     // top image for items with image
     if(imgSrc) {
-        card += '<a href="' + itemHref + '"> <img class="card-img-top lazyload" src="' + placeholder + '" data-src="' + imgSrc + '" alt="Image of ' + obj.title + '"></a>';
+        card += '<a href="' + itemHref + '"> <img class="card-img-top lazyload '+ blur +'" src="' + placeholder + '" data-src="' + imgSrc + '" alt="Image of ' + obj.title + '"></a>';
     }
     // title
-    card += '<div class="card-body text-center"> <h4 class="card-title"><a href="' + itemHref + '" class="text-dark">' + obj.title + '</a></h4>';
+    card += '<div class="card-body text-center">'+ warning +' <h4 class="card-title"><a href="' + itemHref + '" class="text-dark">' + obj.title + '</a></h4>';
     // icon thumb for item without image
     if(thumbIcon){
         card += '<p><a href="' + itemHref + '">' + thumbIcon + '</a></p>';
