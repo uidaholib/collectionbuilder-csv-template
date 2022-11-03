@@ -13,3 +13,4 @@ identifier,Source Identifier
 type,Type,,DCTERMS.type
 format,Format,,,encodingFormat
 rightsstatement,,,DCTERMS.rights,license
+box number,Box Number,true,,,
