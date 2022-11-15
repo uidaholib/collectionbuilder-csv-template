@@ -28,6 +28,29 @@ You can create hyperlinks in Markdown like this:
 
 `[GitHub Help](https://help.github.com/)`
 
+When linking to pages within the same collection, use Jekyll's `relative_url` feature. 
+Instead of writing out https://www.lib.uidaho.edu on an About page you should use the liquid relative_url formula:
+
+**Don't** do this:
+
+`[family](https://www.lib.uidaho.edu/digital/priestlake/browse.html#families)`
+
+**Do** this:
+
+`[family]({{ '/browse.html#families' | relative_url }})`
+
+Here's another example:
+
+**Don't** do this:
+
+`[stage](https://www.lib.uidaho.edu/digital/priestlake/items/priestlake244.html)`
+
+**Do** this:
+
+`[stage]({{ '/items/priestlake244.html' | relative_url }})`
+
+### Open a link in a new browser tab
+
 You've probably noticed that hyperlinks created this way cause a new website to open in your browser's *current tab*.
 Sometimes this is what you want to happen, but there will be other times where you'd like a link to open in a *new browser tab* when a user clicks on it.
 To make this happen, you'll need to copy and paste the snippet of text below to the *end* of your hyperlink parentheses:
@@ -39,6 +62,7 @@ And paste it *after* the parentheses in your hyperlink:
 `[GitHub Help](https://help.github.com/){:target="_blank" rel="noopener"}`
 
 This will ensure that your link opens in a new tab, like this: [GitHub Help](https://help.github.com/)
+
 ---
 
 ## Horizontal Line Breaks
@@ -97,7 +121,7 @@ If you do incorporate headings, you'll probably find it convenient to make use o
 
 The table of contents is generated from the include that looks like this:
 
-`{% raw %}{% include feature/nav-menu.html sections="About CollectionBuilder SA;About the About Page" %}{% endraw %}`
+`{% include feature/nav-menu.html sections="About CollectionBuilder SA;About the About Page" %}`
 
 "sections" is followed by an equals sign (`=`) and values separated by semicolons and encased with quotation marks.
 
@@ -109,3 +133,19 @@ The two values inside the quotation marks correspond to headings in the default 
 
 **In order for the contents box to work correctly, the word in the Table of Contents Include needs to match a heading somewhere in your essay.**
 When you click on the links in the table of contents, and your page will automatically scroll down to the corresponding section.
+
+---
+
+## Block Quotes
+
+Add a block quote to your About page using the block quote include:
+
+`{% include feature/blockquote.html quote="Knowledge comes, but wisdom lingers" speaker="Alfred Lord Tennyson" source="Locksley Hall" %}`
+
+Options:
+- "quote" = quote text, can use Markdown
+- "speaker" = name of the person who said the quote
+- "source" = title of the quote's source
+- "source-link" = link to source
+
+See additional instructions and example at the top of the `/_includes/feature/blockquote.html` file.
