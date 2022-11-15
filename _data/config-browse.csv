@@ -1,6 +1,7 @@
 field,display_name,btn,hidden,sort_name
+artist,Artist,,,Artist
 date,Date,,,Date
-creator,Creator,,,
-subject,,true
+building,Building,,,Building
 location,,true
-identifier,,,true,Identifier
+formatoriginal,,true
+artist,,true
