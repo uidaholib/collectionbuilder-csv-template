@@ -11,4 +11,5 @@ source,Source,,,,
 identifier,Source Identifier,,,,
 type,Type,,,DCTERMS.type,
 format,Format,,,,encodingFormat
-rightsstatement,,,,DCTERMS.rights,license
+rightsstatement,,,,DCTERMS.rights,license.
+finding_aid,Finding Aid,,true,,,
