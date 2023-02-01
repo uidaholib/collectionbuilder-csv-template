@@ -1,26 +1,28 @@
-{%- assign templates = site.data[site.metadata] | where_exp: 'item','item.objectid' | map: "display_template" -%}
-{%- assign types = "image;audio;video;pdf;record" | split: ";" -%}
+{%- assign formats = site.data[site.metadata] | map: "format" -%}
+{%- assign types = "image;audio;video;pdf;record;url" | split: ";" -%}
 <div class="card mb-3" >
   <div class="card-body">
     <h5 class="card-title">Objects</h5>
-    <p class="card-text">
+    <p class="card-text"> 
       {% for t in types %}
-      {%- assign count = templates | where_exp: 'item','item contains t' | size -%}
+      {%- assign count = formats | where_exp: 'item','item contains t' | size -%}
       {% if count > 0 %}
       {{ count }}
       {% case t %}
       {% when 'image' %} 
-      <a class="text-dark" href="{{ 'image' | prepend: '/browse.html#' | relative_url }}">Images <svg class="bi icon-sprite text-body" fill="currentColor" aria-hidden="true"><use xlink:href="{{ '/assets/lib/cb-icons.svg' | relative_url }}#icon-image"/></svg></a><br>
+      <a class="text-dark" href="{{ 'image' | prepend: '/browse.html#' | relative_url }}">Images <img src="{{ '/assets/icons/'' | relative_url | append: 'file-image.svg'}}" alt="" class="pb-1 img-fluid" title="Bootstrap icon" /></a><br>
       {% when 'audio' %}
-      <a class="text-dark" href="{{ 'audio' | prepend: '/browse.html#' | relative_url }}">Audio <svg class="bi icon-sprite text-body" fill="currentColor" aria-hidden="true"><use xlink:href="{{ '/assets/lib/cb-icons.svg' | relative_url }}#icon-audio"/></svg></a><br>
+      <a class="text-dark" href="{{ 'audio' | prepend: '/browse.html#' | relative_url }}">Audio <img src="{{ '/assets/icons/'' | relative_url | append: 'file-play.svg'}}" alt="" class="pb-1 img-fluid" title="Bootstrap icon" /></a><br>
       {% when 'video' %}
-      <a class="text-dark" href="{{ 'video' | prepend: '/browse.html#' | relative_url }}">Videos <svg class="bi icon-sprite text-body" fill="currentColor" aria-hidden="true"><use xlink:href="{{ '/assets/lib/cb-icons.svg' | relative_url }}#icon-video"/></svg></a><br>
+      <a class="text-dark" href="{{ 'video' | prepend: '/browse.html#' | relative_url }}">Videos <img src="{{ '/assets/icons/'' | relative_url | append: 'film.svg'}}" alt="" class="pb-1 img-fluid" title="Bootstrap icon" /></a><br>
       {% when 'pdf' %}
-      <a class="text-dark" href="{{ 'pdf' | prepend: '/browse.html#' | relative_url }}">PDFs <svg class="bi icon-sprite text-body" fill="currentColor" aria-hidden="true"><use xlink:href="{{ '/assets/lib/cb-icons.svg' | relative_url }}#icon-pdf"/></svg></a><br>
+      <a class="text-dark" href="{{ 'pdf' | prepend: '/browse.html#' | relative_url }}">PDFs <img src="{{ '/assets/icons/'' | relative_url | append: 'file-richtext.svg'}}" alt="" class="pb-1 img-fluid" title="Bootstrap icon" /></a><br>
       {% when 'record' %}
-      <a class="text-dark" href="{{ 'record' | prepend: '/browse.html#' | relative_url }}">Records <svg class="bi icon-sprite text-body" fill="currentColor" aria-hidden="true"><use xlink:href="{{ '/assets/lib/cb-icons.svg' | relative_url }}#icon-default"/></svg></a><br>
+      <a class="text-dark" href="{{ 'pdf' | prepend: '/browse.html#' | relative_url }}">Records <img src="{{ '/assets/icons/'' | relative_url | append: 'file-text.svg'}}" alt="" class="pb-1 img-fluid" title="Bootstrap icon" /></a><br>
+      {% when 'url' %}
+      <a class="text-dark" href="{{ 'pdf' | prepend: '/browse.html#' | relative_url }}">URLs <img src="{{ '/assets/icons/'' | relative_url | append: 'link.svg'}}" alt="" class="pb-1 img-fluid" title="Bootstrap icon" /></a><br>
       {% else %}
-      <a class="text-dark" href="{{ 'file' | prepend: '/browse.html#' | relative_url }}">Files <svg class="bi icon-sprite text-body" fill="currentColor" aria-hidden="true"><use xlink:href="{{ '/assets/lib/cb-icons.svg' | relative_url }}#icon-default"/></svg></a><br>
+      <a class="text-dark" href="{{ 'pdf' | prepend: '/browse.html#' | relative_url }}">Files <img src="{{ '/assets/icons/'' | relative_url | append: 'file.svg'}}" alt="" class="pb-1 img-fluid" title="Bootstrap icon" /></a><br>
       {%- endcase -%}
       {%- endif -%}
       {%- endfor -%}
