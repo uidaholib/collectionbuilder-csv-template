@@ -12,7 +12,7 @@
 # site domain, full URL to the production location of your collection
 url: https://www.lib.uidaho.edu
 # path to location on the domain if necessary e.g. /digital/hjccc
-baseurl: /digital/demo
+baseurl: /digital/dodson
 # location of code, the full url to your github repository
 source-code: https://github.com/uidaholib/collectionbuilder-csv-template
 
@@ -23,16 +23,16 @@ digital-assets: https://www.lib.uidaho.edu/assets
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: CollectionBuilder CSV
+title: Richard W. Dodson Collection of Science Fiction
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Digital Collection Magic with Static Web Technologies
+tagline: Correspondence between Richard W. Dodson, Edward E. ("Doc") Smith, and other science fiction authors of the 20th century
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-CSV is a template for creating digital collection exhibits using static web technology."
+description: "A collection of Richard W. Dodson's (1915-2008) letters and ephemera to and from Edward Elmer 'Doc' Smith (1890-1965), chemist and pioneer science fiction writer, and other science fiction authors, editors, and friends, including Clark Ashton Smith and Abraham Merritt. Dodson began writing to Smith as a high school student, exchanging letters that ranged from the nature of science fiction writing and critiques of Smith's work to the study of science. Their correspondence spanned almost decades, during which time Dodson grew up to become a prominent atomic scientist."
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
-keywords: idaho;history;inland northwest
+keywords: science fiction;letters;Richard W. Dodson; Clark Ashton Smith;Abraham Merritt
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: CollectionBuilder
+author: owikle
 # Organization branding
 organization-name: "Digital Initiatives, University of Idaho Library"
 organization-link: https://www.lib.uidaho.edu/digital/
@@ -44,7 +44,7 @@ organization-logo-nav: https://www.lib.uidaho.edu/media/digital/bannerlogo_allwh
 #
 # Set the metadata for your collection (the name of the CSV file in your _data directory that describes the objects in your collection) 
 # Use the filename of your CSV **without** the ".csv" extension! E.g. _data/demo-metadata.csv --> "demo-metadata"
-metadata: demo-metadata
+metadata: dodson
 # page generation settings [optional!]
 # [optional: only used if you need to tweak CB defaults or generate from more than one data file]
 # page_gen:
