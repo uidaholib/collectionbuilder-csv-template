@@ -24,5 +24,5 @@ function getIcon(objectTemplate,objectFormat) {
         iconId = "icon-default";
     }
     // svg sprite as thumb
-    return '<svg class="bi text-body" fill="currentColor"><use xlink:href="{{ "/assets/lib/cb-icons.svg" | relative_url }}#' + iconId + '"/></svg>';
+    return '<svg class="bi img-fluid text-body" fill="currentColor"><use xlink:href="{{ "/assets/lib/cb-icons.svg" | relative_url }}#' + iconId + '"/></svg>';
 }
