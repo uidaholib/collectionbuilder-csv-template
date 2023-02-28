@@ -27,7 +27,7 @@ In 1933, Coope and Ashlee worked together to bring the natural world to the stud
 
 {% include feature/image.html objectid="flora153" %}
 
-Somehow the physical materials within this collection had found themselves in the [Royal BC Museum](https://royalbcmuseum.bc.ca). After some years of communicating back and forth, the University of Idaho Library Special Collections and Archives chose to accept the materials. They were received in 2023, and processed and digitized soon after.
+Somehow the physical materials within this collection had found themselves in the [Royal BC Museum](https://royalbcmuseum.bc.ca). After some years of communicating back and forth, the University of Idaho Library Special Collections and Archives chose to accept the materials. They were received in 2023, and processed and digitized soon after. The materials themselves consisted of glass negatives, film negatives, and printed photographs. The negatives and prints were all located in labeled envelopes. The labels included information like Latin names, date and times, locations, measurements, and even if it was a cloudy day. This type of information is crucial in understanding the environment in a historic way.
 
 {% include feature/image.html objectid="flora044" %}
 
