@@ -28,7 +28,7 @@
 {% if site.data.theme.map-search == true %}<link rel="stylesheet" href="{{ '/leaflet/leaflet.fusesearch.css' | prepend: site.digital-assets }}">{% endif %}
 {% if site.data.theme.map-cluster == true %}<link rel="stylesheet" href="{{ '/leaflet/MarkerCluster.css' | prepend: site.digital-assets }}">
 <link rel="stylesheet" href="{{ '/leaflet/MarkerCluster.Default.css' | prepend: site.digital-assets }}">{% endif %}{%- endif -%}
-<link rel="stylesheet" href="{{ '/assets/css/custom.css?v=22.11' | relative_url }}" type="text/css">
+<link rel="stylesheet" href="{{ '/assets/css/main.css?v=22.11' | relative_url }}" type="text/css">
 
 {% comment %} 
     Meta tags and analytics are added during production build ONLY 
@@ -38,4 +38,5 @@
 {% if layout.item-meta %}{% include head/item-meta.html %}{% else %}{% include head/page-meta.html %}{% endif %}
 {% include head/analytics.html %}
 {%- endif -%}
-<!-- Last build date: {{ site.time | date: "%Y-%m-%d" }} -->
+
+<!-- build date {{ site.time | date: "%Y-%m-%d" }}, collectionbuilder-csv-template, metadata: {{ site.metadata }} -->

@@ -31,13 +31,13 @@ function makeCard(obj) {
         thumbIcon = getIcon(obj.template,obj.format)
     }
 
+    // add blur feature for sensitive objects
     if(obj.sensitive){
         var blur = 'blur';
         var warning = '<p class="text-danger small">Warning: This image is of a graphic nature.</p>';
-    } else{
+    } else {
         var blur = '';
         var warning = '';
-
     }
 
     // start card
