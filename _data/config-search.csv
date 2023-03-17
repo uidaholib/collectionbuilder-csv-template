@@ -5,4 +5,4 @@ creator,true,false
 description,true,true
 subject,true,true
 location,true,false
-fire locations,true,true
+fire locations,true,false
