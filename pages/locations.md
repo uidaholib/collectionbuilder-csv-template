@@ -7,7 +7,7 @@ permalink: /locations.html
 cloud-fields: site.data.theme.locations-fields
 ---
 
-## Browse Locations
+## Browse Association Locations
 
-Use this word cloud visualization to browse locations.
+Use this word cloud visualization to browse fire protective association locations.
 Word size is determined by frequency and all words link to a corresponding collection search.
