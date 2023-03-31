@@ -7,7 +7,10 @@ layout: page
   <div class="col-md-8">
 
     {% include index/description.html %}
+
     {% include index/carousel.html title="Sample Reports" %}
+
+    {% include index/data-download.html %}
     
   </div>
   <div class="col-md-4">  
@@ -19,14 +22,8 @@ layout: page
     {% include index/featured-terms.html field="location" title="Locations" btn-color="outline-secondary" %}
 
     {% include index/featured-terms.html field="fire locations" title="Top Fire Locations" btn-color="outline-secondary" %}
-    
+
     {% include index/objects.html %}
 
   </div>
-  <div class="col-md-12">
-
-    {% include index/data-download.html %}
-
-  </div>
-
 </div>
