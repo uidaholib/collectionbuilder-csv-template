@@ -14,5 +14,5 @@
 
 <blockquote class="blockquote pt-3 pb-5">
     <p class="mb-0">{{ include.quote | markdownify }}</p>
-    <footer class="blockquote-footer text-right">{% if include.speaker %}{{ include.speaker }}, {% endif %}{% if include.source %}<cite title="source Title">"{% if include.source-link %}<a href="{{ include.source-link }}" target="_blank" rel="noopener">{% endif %}{{ include.source }}{% if include.source-link %}</a>{% endif %}"</cite>{% endif %}</footer>
+    <footer class="blockquote-footer text-right">{% if include.speaker %}{{ include.speaker }}, {% endif %}{% if include.source %}<cite title="source Title">{% if include.source-link %}<a href="{{ include.source-link }}" target="_blank" rel="noopener">{% endif %}{{ include.source }}{% if include.source-link %}</a>{% endif %}</cite>{% endif %}</footer>
 </blockquote>
