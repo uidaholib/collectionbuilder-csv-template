@@ -43,6 +43,7 @@
         <small><a class="text-info featured-link" href="{{ site.data.featured_item.link | relative_url }}" title="{{ site.data.featured_item.alt | escape }}">Featured Image</a></small>
     </div>{% endunless %}
 </div>
+{% if site.data.theme.content-alert == true %}{% include index/content-alert.html %}{% endif %}
 {%- else -%}
 <div class="container">
     <div class="row align-items-center">

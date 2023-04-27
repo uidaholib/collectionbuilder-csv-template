@@ -6,6 +6,7 @@ drawn,Drawn,,,
 traced,Traced,,,,
 scale,Scale,,,
 date,Date Created,,,DCTERMS.created,dateCreated
+archival date,Date Created (Archival Standard)
 description,Description,,,DCTERMS.description,description
 subject,Subjects,true,,DCTERMS.subject,keywords
 location,Location,,,,contentLocation
@@ -14,6 +15,7 @@ location created,Location Created,,,
 latitude,Latitude,,,,
 longitude,Longitude,,,,
 source,Source,,,,
+findingaid,Finding Aid,,true
 identifier,Source Identifier,,,,
 type,Type,,,DCTERMS.type,
 format,Format,,,,encodingFormat
