@@ -1,6 +1,8 @@
 field,display_name,browse_link,external_link,dc_map,schema_map
 title,Title,,,DCTERMS.title,headline
-date,Date Created,,,DCTERMS.created,dateCreated
+creator,Creator,,,DCTERMS.creator,creator
+archival date,Date Created (Archival Standard)
+date,Date Created (ISO Standard),,,DCTERMS.date,dateCreated
 description,Description,,,DCTERMS.description,description
 subjects,Subjects,true,,DCTERMS.subject,keywords
 1st stations,First Subdivision Stations,true,,,
@@ -12,6 +14,7 @@ company name,Company Namem,true,,,
 latitude,Latitude,,,,
 longitude,Longitude,,,,
 source,Source,,,,
+findingaid,Finding Aid,,true
 identifier,Source Identifier,,,,
 type,Type,,,DCTERMS.type,
 format,Format,,,,encodingFormat
