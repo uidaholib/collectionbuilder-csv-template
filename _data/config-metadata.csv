@@ -14,7 +14,7 @@ company name,Company Namem,true,,,
 latitude,Latitude,,,,
 longitude,Longitude,,,,
 source,Source,,,,
-findingaid,Finding Aid,,true
+finding aid,Finding Aid,,true
 identifier,Source Identifier,,,,
 type,Type,,,DCTERMS.type,
 format,Format,,,,encodingFormat
