@@ -3,6 +3,7 @@
     This allows you to override any CollectionBuilder or Bootstrap CSS without modifying the base theme files directly.
 */
 
-.blockquote {
-    font-size: 1.75rem;
+.blur {
+    -webkit-filter: blur(5px); /* Safari 6.0 - 9.0 */
+    filter: blur(8px);
 }
