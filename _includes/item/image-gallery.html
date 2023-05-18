@@ -8,6 +8,6 @@
     <div class="gallery-img" data-src="{{ page.object_location | relative_url }}">
         <p><img src="{{ page.image_small | relative_url }}" alt="item thumbnail for {{ page.title | escape }}" class="img-fluid {% if page.sensitive %}blur{% endif %}"></p>
         {% if page.sensitive %}<p class="text-danger small">Warning: This image is of a graphic nature and may be upsetting to some viewers. Clicking the image will present a large, clear version of the image.</p>{% endif %}
-        <p><small>Click to view full screen</small></p>
+        {% if page.display_template != 'compound' %}<p><small>Click to view full screen</small></p>{% endif %}
     </div>
 </div>
