@@ -8,26 +8,29 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %} 
+{% include feature/jumbotron.html objectid=wim008 %} 
 
 {% include feature/nav-menu.html sections="About CollectionBuilder SA;About the About Page" %}
 
-## About CollectionBuilder CSV
+## About the Collection
 
-This demo collection features items from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital/), and is build using [CollectionBuilder-CSV](https://github.com/CollectionBuilder/collectionbuilder-csv).
+This digital collection consists of 11 smaller blueprints and maps from Series IV., box 440, of MG 139, Washington, Idaho & Montana Railway Records collection. The items in this collection include the WI&M proposed railway tracks, standard plans for the WI&M section houses, and maps of the WI&M Railway line.
 
-CollectionBuilder-CSV is a "Stand Alone" template for creating digital collection and exhibit websites using Jekyll, given:
+## About Washington, Idaho & Montana Railway Company
 
-- a CSV of collection metadata
-- a folder of images, PDFs, audio, or video files
+A group of Midwestern logging men formed the Wisconsin Log and Lumber Company to begin logging in the Potlach Basin of Idaho around 1900. In 1903, the company merged with Weyerhaeuser interests to form the Potlatch Lumber Company. After abandoning their first mill in Palouse, Washington, the company decided to build eighteen miles away from Moscow, and the town of Potlatch was built. 
 
-Driven by your collection metadata, the template generates engaging visualizations to browse and explore your objects.
-The resulting static site can be hosted on any basic web server.
+The Washington, Idaho & Montana (WI&M) Railway Company was created after the Northern Pacific Railroad declined to build a road for the Potlatch Lumber Company. William E. Borah, then a lawyer, assisted setting up the incorporation of the railway company. The construction of the railway began in 1905, by the end of 1906, the line had reached Bovill, and in 1908, the line had reached Purdue. Original plans called for a further reach eastern through Clearwater county and across the Bitterroots into Montana, but the Milwaukee Road had built a line from St. Maries to Elk River in Clearwater County which connected with the WI&M at Bovill. Another possible reason in the change in plans into Montana could have been the 1910 forest fire [link].
 
-[CollectionBuilder](https://github.com/CollectionBuilder/) is an set of open source tools for creating digital collection and exhibit websites that are driven by metadata and powered by modern static web technology.
-See [CB Docs](https://collectionbuilder.github.io/cb-docs/) for detailed information.
+The Milwaukee Road reached an agreement with Weyerhaeuser to not sell the now finished railway for ten years, but other interest in the railway led the Northern Pacific Railroad to return with renewed interest.
 
-{% include feature/image.html objectid="demo_001" width="75" %} 
+In 1922, the Northern Pacific agreed to joint freight rates with the WI&M.
 
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
+In 1932, the holding company for the WI&M, the Inland Improvement Company, dissolved and the railway became a wholly owned subsidiary of the Potlatch Lumber Company.
+
+*Information about this collection has been adapted from the finding aid of MG 139 Washington, Idaho & Montana Railway Records written by Judith Nielsen. More detailed infomration about the collection and its contents can be found in the collection's finding aid.*
+
+See related collections: 
+
+Potlach Timber Collection
+
