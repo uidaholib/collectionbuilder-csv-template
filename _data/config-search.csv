@@ -1,6 +1,7 @@
 field,index,display
 title,true,true
 date,true,true
+authors,true,false
 creator,true,false
 description,true,true
 subject,true,true
