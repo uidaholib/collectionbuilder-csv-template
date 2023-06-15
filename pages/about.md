@@ -16,7 +16,7 @@ credits: true
 
 This digital collection contains film negatives and print photographs of Wallace, Idaho and the surrounding areas between 1890s to the 1960s from the George W. Tabor Photographs collection. The items mostly feature scenes of the town, including events, buildings, members of community organizations, and various (mostly unidentified) people. Also featured in this collection are mining photographs that depict the facilities, equipment, and miners of the Hecla-Star Mine, Sunshine Mine, Lucky Friday, and other mines in the region. The collection also contains many images of disasters that took place in the area, such as airplane crashes, floods, avalanches, landslides, and fires. George W. Tabor inherited the Tabor Store, a general store, from his father, where most of these photographs were either taken by the the Store’s employees or developed in the Tabor Store photograph department.  
 
-{% include feature/image.html objectid="tabor0193" width="50" %}
+{% include feature/image.html objectid="tabor2626" width="50" %}
 
 This collection was given to the University of Idaho from Dick Magnuson, a longtime Wallace resident, local historian, and former Tabor’s employee, in 2003. [^1] 
 
