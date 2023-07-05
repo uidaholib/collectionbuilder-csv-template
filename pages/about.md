@@ -14,20 +14,14 @@ credits: true
 
 ## About History of Theatre at the U of I
 
-This demo collection features items from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital/), and is build using [CollectionBuilder-CSV](https://github.com/CollectionBuilder/collectionbuilder-csv).
+Play production on the U of I Moscow campus was originally student body efforts and/or shows produced by the English Department. The first known production was "The Rivals" in 1900 directed by elocution instructor, [Aurelia Henry Reinhardt](https://harvester.lib.uidaho.edu/posts/2023/02/27/aurelia-henry-reinhardt.html). In 1954, department head Jean Collette and faculty member Ed Chavez started UI Summer Theatre. In the 1980s, it became known as Idaho Repertory Theatre (IRT). IRT was shuttered in 2016 and then returned to production in 2022.
 
-CollectionBuilder-CSV is a "Stand Alone" template for creating digital collection and exhibit websites using Jekyll, given:
+This digital collection contains articles about U of I Theatre which is still creating and producing theatrical productions and educating students whether or not they are majors.
 
-- a CSV of collection metadata
-- a folder of images, PDFs, audio, or video files
 
-Driven by your collection metadata, the template generates engaging visualizations to browse and explore your objects.
-The resulting static site can be hosted on any basic web server.
 
-[CollectionBuilder](https://github.com/CollectionBuilder/) is an set of open source tools for creating digital collection and exhibit websites that are driven by metadata and powered by modern static web technology.
-See [CB Docs](https://collectionbuilder.github.io/cb-docs/) for detailed information.
+
 
 {% include feature/image.html objectid="theatre001" width="75" %} 
 
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
+
