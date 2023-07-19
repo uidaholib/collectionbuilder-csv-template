@@ -8,13 +8,20 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="https://www.lib.uidaho.edu/digital/objects/fiddlers/JacobyJn-Jn76_10.jpg" %} 
+{% include feature/jumbotron.html objectid="fiddlers099" %} 
 
-{% include feature/nav-menu.html sections="About CollectionBuilder SA;About the About Page" %}
+{% include feature/nav-menu.html sections="About the Collection;National Oldtime Fiddle Contest and Festival" %}
 
-## About the National Oldtime Fiddle Contest and Festival
-### Written by Daniel Olortegui Vargas
+## About the Collection
 
+This digital collection features recordings and memorabilia from the [National Oldtime Fiddle Contest and Festival](https://www.fiddlecontest.org/) held annually since 1953 in Weiser, Idaho.
+The items were curated by University of Idaho student Daniel Olortegui Vargas in 2023 as a project supported by the Gary E. and Carolyn J. Strong Special Collections Fellowship.
+Most of the materials come from the [Lyle J. Reed collection, 1964-1987](https://archiveswest.orbiscascade.org/ark:80444/xv425711) held in Special Collections and Archives, with additional photographs taken by Olortegui Vargas in 2023.
+
+## National Oldtime Fiddle Contest and Festival
+
+by Daniel Olortegui Vargas (Gary E. and Carolyn J. Strong Special Collections Fellow, 2023)
+{:.h5 .mb-5}
 
 The violin is a well-known instrument. However, the fiddler musical instrument is not too well known. Believe it or not, they are synonymous; a fiddler is a violin, a bowed string musical instrument. Nevertheless, the fiddler is used more colloquially. The style of music makes a difference in determining when the word Fiddler or violin is used. The Fiddler is steeped in many popular traditions. One of the renowned and influential fiddler traditions is in Weiser, Idaho. This city is located in the rural western part of Idaho. Its sits at the confluence of the river that bears the same name and the great Snake River. Currently, the population is a little over 5,000 inhabitants. All these factors combine to start one of the most important fiddler contests. Weiser and Fiddler have crossed paths for over a century. In 1863, the Logans established a way station and covered wagon at Weiser. This conjuncture made many emigrants use Weiser to rest from a long journeys. Since that time, the Fiddler has been present in the region. In fact, there are reports of fiddler contests in Weiser dating back to 1914.
  
