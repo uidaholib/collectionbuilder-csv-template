@@ -23,14 +23,14 @@ digital-assets: https://www.lib.uidaho.edu/assets
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: National Oldtime Fiddle Contest Collection
+title: National Oldtime Fiddlers' Collection
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Recordings and memorabilia from the festival in Weiser, Idaho
+tagline: Recordings and memorabilia from the contest and festival in Weiser, Idaho.
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
 description: "A collection of recordings and memorabilia from the National Oldtime Fiddle Contest and Festival in Weiser, Idaho."
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
-keywords: idaho; fiddlers; music; contests
+keywords: idaho; music; contests; fiddle; festival
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: Daniel Olotegui Vargas
 # Organization branding
