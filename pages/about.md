@@ -9,7 +9,7 @@ credits: true
 ---
 
 {% include feature/jumbotron.html objectid="fiddlers099" %} 
-{% include feature/nav-menu.html sections="About the Collection;National Oldtime Fiddle Contest and Festival" %}
+{% include feature/nav-menu.html sections="About the Collection;National Oldtime Fiddlers' Contest and Festival" %}
 
 ## About the Collection
 
@@ -57,6 +57,6 @@ In this office, there are always two people. The first lady with the first addin
 
 {% include feature/image.html objectid="fiddlers141" %}
 
-Fun is not only found in high school. Outside the high school is the campground, which fills up with RVs and tents throughout the week of the festival. If someone wants to enjoy this festival fully, they must stay in the high school campground. There you will hear fiddling from dawn until past midnight. It is a truly wonderful experience.
+Fun is not only found in high school. Outside the high school is the campground, which fills up with RVs and tents throughout the week of the festival. If someone wants to enjoy this festival fully, they must stay in the high school campground. There you will hear fiddling from dawn to dusk. It is a truly wonderful experience.
 
 {% include feature/image.html objectid="fiddlers137;fiddlers139" %}
