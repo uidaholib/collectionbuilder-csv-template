@@ -6,8 +6,6 @@ date,,,,DCTERMS.date,dateCreated
 description,Description,,,DCTERMS.description,description
 subject,Subjects,true,,DCTERMS.subject,keywords
 location,Location,,,,contentLocation
-latitude,Latitude,,,,
-longitude,Longitude,,,,
 source,Source,,,,
 findingaid,Finding Aid,,true
 identifier,Source Identifier,,,,
