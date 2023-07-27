@@ -28,13 +28,13 @@ title: McClure Center Archive
 tagline: Publications from the James A. and Louise McClure Center for Public Policy Research
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "A collection of documents from the University of Idaho’s James A. and Louise McClure Center for Public Policy Research"
+description: "A collection of publications from the University of Idaho's James A. and Louise McClure Center for Public Policy Research"
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
-keywords: idaho;history;inland northwest
+keywords: public policy research; Idaho; public affairs
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: CollectionBuilder
+author: uidaholib; evanwill
 # Organization branding
-organization-name: "Digital Initiatives, University of Idaho Library"
+organization-name: "University of Idaho Library"
 organization-link: https://www.lib.uidaho.edu/digital/
 organization-logo-banner: https://www.lib.uidaho.edu/media/digital/justdi_logo_sm.png
 organization-logo-nav: https://www.lib.uidaho.edu/media/digital/bannerlogo_allwhite.png
@@ -67,7 +67,7 @@ metadata: mcclure_center_collection
 # ROBOTS EXCLUDE
 #
 # set noindex to true if you do NOT want Google to index your site
-noindex: true 
+# noindex: true 
 
 ##########
 # BUILD SETTINGS 
