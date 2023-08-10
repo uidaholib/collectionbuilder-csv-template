@@ -14,7 +14,7 @@ credits: true
 
 ## About the Collection
 
-This digital collection consists of 11 smaller blueprints and maps from Series IV., Box 440, of MG 139, the Washington, Idaho & Montana (WI&M) Railway Records collection. The items in this collection include the WI&M proposed railway tracks, standard plans for the WI&M section houses, and maps of the WI&M Railway line.
+This digital collection consists of 11 smaller blueprints and maps from Series IV., Box 440, of MG 139, the Washington, Idaho & Montana (WI&M) Railway Records collection. The items include the WI&M proposed railway tracks, standard plans for the WI&M section houses, and maps of the WI&M Railway line.
 
 ## About the Washington, Idaho & Montana Railway Company
 
