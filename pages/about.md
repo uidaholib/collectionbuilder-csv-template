@@ -26,13 +26,15 @@ The stations along the WI&M line included Wellesley, Princeton, Harvard, Yale, S
 
 {% include feature/image.html objectid="wim005" width="75" %}
 
-The main purpose of the railroad was to move timber for the Potlatch Lumber Company. The WI&M company even ranked with main lines for its reliability and service due to its excellent construction and attention to maintenance and repairs. In 1930, the railway developed an innovative way to protect shipments of finished lumber from water and cinder damage with a paper tent.  
+The main purpose of the railroad was to move timber for the Potlatch Lumber Company. The WI&M company ranked with main lines for its reliability and service due to its excellent construction and attention to maintenance and repairs. In 1930, the railway developed an innovative way to protect shipments of finished lumber from water and cinder damage with a paper tent.  
 
 {% include feature/image.html objectid="https://digital.lib.uidaho.edu/digital/iiif/plcphotos/641/full/max/0/default.jpg;https://digital.lib.uidaho.edu/digital/iiif/plcphotos/636/full/pct:70/0/default.jpg" caption="First log train crew;First log train" link="https://www.lib.uidaho.edu/digital/plcphotos/items/plcphotos641.html;https://www.lib.uidaho.edu/digital/plcphotos/items/plcphotos636.html" width="75" %}
 
-In addition to hauling logs, the railway operated a passenger service transporting people, mail, and express. It also provided an outlet for local farmers to carry grain, vegetables, and livestock. Passenger railroad service began in 1905, inaugurated by an excursion train carrying about 500 passengers from Palouse to Potlatch. By 1933, the passenger service was replaced by a Studebaker automobile, nicknamed "The Bug," that made daily trips of about 120 miles. In 1937, it was replaced by another car, the "Potlatcher." In March 1955, the passenger train service eventually ended after the government discontinued a mail contract. By then, passenger traffic had been reduced.
+In addition to hauling logs, the railway operated a passenger service transporting people and mail. It also provided an outlet for local farmers to carry grain, vegetables, and livestock. Passenger railroad service began in 1905, inaugurated by an excursion train carrying about 500 passengers from Palouse to Potlatch. By 1933, the passenger service was replaced by a Studebaker automobile, nicknamed "The Bug," that made daily trips of about 120 miles. In 1937, it was replaced by another car, the "Potlatcher." In March 1955, the passenger train service eventually ended after the government discontinued a mail contract. By then, passenger traffic had been reduced.
 
 {% include feature/image.html objectid="https://digital.lib.uidaho.edu/digital/iiif/plcphotos/22/full/pct:70/0/default.jpg" caption="Washington, Idaho & Montana Mail Co. 'The Bug'" link="https://www.lib.uidaho.edu/digital/plcphotos/items/plcphotos22.html" width="50" %}
+
+{% include feature/image.html objectid="https://digital.lib.uidaho.edu/digital/iiif/phs/1383/full/pct:70/0/default.jpg" caption="WI&M Railroad Car Interior" link="https://www.lib.uidaho.edu/digital/phs/items/phs1383.html" width="25" %}
 
 After being acquired by the Milwaukee Land Company (a subsidiary of Milwaukee Road) in 1962, the WI&M railroad continued to run for logging operations until 1980. The Milwaukee Road sold in 1980 and a part of the WI&M line was purchased by the Burlington Northern Railroad.
 
@@ -42,7 +44,7 @@ After being acquired by the Milwaukee Land Company (a subsidiary of Milwaukee Ro
 
 #### Related Collections ####
 
-For more information, see the following collections:
+For more information, see the following digital collections:
 
 {% include feature/button.html text="Potlatch Lumber Company Photograph Collection" link="https://www.lib.uidaho.edu/digital/plcphotos/" color="success" %}
 
