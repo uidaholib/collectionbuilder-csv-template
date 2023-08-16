@@ -1,8 +1,8 @@
 field,display_name,browse_link,external_link,dc_map,schema_map
 title,Title,,,DCTERMS.title,headline
 creator,Creator,,,DCTERMS.creator,creator
-archival date,Date Created (Archival Standard)
-date,Date Created (ISO Standard),,,DCTERMS.date,dateCreated
+archivaldate,Date Created (Archival Standard)
+date,
 description,Description,,,DCTERMS.description,description
 scale,Scale,,,,
 subject,Subjects,true,DCTERMS.subject,keywords
@@ -14,4 +14,5 @@ findingaid,Finding Aid,,true
 identifier,Source Identifier,,,,
 type,Type,,,DCTERMS.type,
 format,Format,,,,encodingFormat
+format original,Format Original,,,,
 rightsstatement,,,,DCTERMS.rights,license
