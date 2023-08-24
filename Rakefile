@@ -16,7 +16,7 @@ end
 # Helper Functions
 ###############################################################################
 
-$ensure_dir_exists = ->(dir) { if !Dir.exists?(dir) then Dir.mkdir(dir) end }
+$ensure_dir_exists = ->(dir) { if !Dir.exist?(dir) then Dir.mkdir(dir) end }
 
 def prompt_user_for_confirmation message
   response = nil
@@ -113,7 +113,7 @@ task :generate_derivatives, [:thumbs_size, :small_size, :density, :missing, :im_
 
       # Generate the thumb image.
       thumb_filename=File.join([thumb_image_dir, "#{base_filename}_th.jpg"])
-      if args.missing == 'false' or !File.exists?(thumb_filename)
+      if args.missing == 'false' or !File.exist?(thumb_filename)
         puts "Creating: #{thumb_filename}";
         system("#{cmd_prefix} -resize #{args.thumbs_size} -flatten #{thumb_filename}")
       else
@@ -122,7 +122,7 @@ task :generate_derivatives, [:thumbs_size, :small_size, :density, :missing, :im_
 
       # Generate the small image.
       small_filename = File.join([small_image_dir, "#{base_filename}_sm.jpg"])
-      if args.missing == 'false' or !File.exists?(small_filename)
+      if args.missing == 'false' or !File.exist?(small_filename)
         puts "Creating: #{small_filename}";
         system("#{cmd_prefix} -resize #{args.small_size} -flatten #{small_filename}")
       else
