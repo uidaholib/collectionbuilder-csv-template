@@ -1,5 +1,9 @@
 # CollectionBuilder-CSV-Template
 
+Missing items: gemphotos0541,PG101-247_12,University of Idaho Commencement ceremony [19],Faculty lead the procession to Memorial Gym where Commencement is held.,1957,yes,,commencements; academic ceremonies; events; group portraits; ceremonies; students; crowds,,,,,,,,,,,,,,,,,
+
+gemphotos0787,PG101-704,Unsuccessful basketball coach applicant. University of Idaho.,,1963,,,,,,,"PG 101, University of Idaho Gem of the Mountains Photograph Collection",eng,PG101-,Image;StillImage,image/jpeg,4x5 black and white negative,Gem of the Mountain Yearbook Photographs,University of Idaho Library Special Collections and Archives,"Educational use only. Educational use includes non-commercial use of text and images in materials for teaching and research purposes. Digital reproduction rights granted by the University of Idaho Library. For other uses beyond free use, please contact the University of Idaho Library Special Collections and Archives Department at libspec@uidaho.edu.",http://rightsstatements.org/vocab/InC-EDU/1.0/,,https://www.lib.uidaho.edu/digital/objects/gemphotos/PG101-704-001.jpg,https://www.lib.uidaho.edu/digital/objects/gemphotos/small/pg101-704_sm.jpg,https://www.lib.uidaho.edu/digital/objects/gemphotos/thumbs/pg101-704_th.jpg
+
 <https://www.lib.uidaho.edu/digital/>
  
 A highly customized version of [CollectionBuilder-CSV](https://github.com/CollectionBuilder/collectionbuilder-csv) used to generate University of Idaho Library Digital Collections.
