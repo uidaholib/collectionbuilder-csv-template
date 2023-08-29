@@ -18,7 +18,7 @@ This collection consists of black and white negatives from PG 101, the Gem of th
 
 Over 100 volumes of *The Gem of the Mountains* have been digitized for online viewing. To view these yearbooks and for more information about the publication, please see [the University of Idaho Library's Gem of the Mountains Digital Yearbook Collection](https://www.lib.uidaho.edu/digital/gem/index.html).
 
-**This digital collection is in the process of being digitized. The items currently displayed are from Box 02 of the collection.**
+**This digital collection is in the process of being digitized. Only a limited set of the boxes are contained in this collection.**
 
 
 {% include feature/image.html objectid="gemphotos0642" width="75" %} 
