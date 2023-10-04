@@ -14,20 +14,12 @@ credits: true
 
 ## About CollectionBuilder CSV
 
-This demo collection features items from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital/), and is build using [CollectionBuilder-CSV](https://github.com/CollectionBuilder/collectionbuilder-csv).
+*pulled from Harvester post - change up*
 
-CollectionBuilder-CSV is a "Stand Alone" template for creating digital collection and exhibit websites using Jekyll, given:
+On April 4, 2023, Earl Bennett donated his collection of 1,500 historic Idaho mining stock certificates to U of I Library Special Collections and Archives. Bennett, a former University of Idaho professor, is a scripophile, or someone who collects bond and share certificates. While this specialty may not be widely known, the historic value of the material collected is insurmountable.These stock certificates not only highlight the history of mining in Idaho, but they also bring this expansive history to a ground level. The certificates themselves are full of historic detail. They contain the names of people, companies, dates, locations, and even bank information. Not to mention the designs on the certificates are works of art. The intention is to create a digital collection from these materials. Digitizing this integral part of Idaho history is one of the many ways we can preserve the past. Stay tuned for more news on the progress!
 
-- a CSV of collection metadata
-- a folder of images, PDFs, audio, or video files
+*pulled from AW - change up*
 
-Driven by your collection metadata, the template generates engaging visualizations to browse and explore your objects.
-The resulting static site can be hosted on any basic web server.
+Stock certificates are physical documents issued by companies to indicate ownership. Usually, the document will include the number of shares owned by the holder of the certificate, the purchase date, a corporate seal, and signatures. The collection assembled by Earl Bennett is particularly focused on certificates issued by mining companies in Idaho, though also has certificates from other industries and states.
 
-[CollectionBuilder](https://github.com/CollectionBuilder/) is an set of open source tools for creating digital collection and exhibit websites that are driven by metadata and powered by modern static web technology.
-See [CB Docs](https://collectionbuilder.github.io/cb-docs/) for detailed information.
-
-{% include feature/image.html objectid="demo_001" width="75" %} 
-
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
+The donor, Earl Bennett, was Dean of the College of Mines and Earth Resources and the College of Science at U of Idaho. He also served as the State Geologist for Idaho for many years. He served in the U.S. Airforce, attended University of Delaware for a B.A., N.C. State at Raleigh for a M.S., and University of Idaho for a PhD. His professional work led him to develop a deep interest in the history of the Coeur d'Alene Mining District. His expertise in the subject was recognized throughout the state and region.
