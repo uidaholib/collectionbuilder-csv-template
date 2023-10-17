@@ -12,7 +12,7 @@
 # site domain, full URL to the production location of your collection
 url: https://www.lib.uidaho.edu
 # path to location on the domain if necessary e.g. /digital/hjccc
-baseurl: /digital/demo
+baseurl: /digital/stockcerts
 # location of code, the full url to your github repository
 source-code: https://github.com/uidaholib/collectionbuilder-csv-template
 
@@ -23,18 +23,18 @@ digital-assets: https://www.lib.uidaho.edu/assets
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: CollectionBuilder CSV
+title: Earl Bennett Stock Certificates
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Digital Collection Magic with Static Web Technologies
+tagline: Stock certificates from various natural resource companies.
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-CSV is a template for creating digital collection exhibits using static web technology."
+description: "Stock certificates collected by Earl H. Bennett of mining, lumber, and other related industries in the United States."
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
-keywords: idaho;history;inland northwest
+keywords: idaho;history;mining;lumber;stocks;stock certificates;natural resources
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: CollectionBuilder
 # Organization branding
-organization-name: "Digital Initiatives, University of Idaho Library"
+organization-name: "University of Idaho Library"
 organization-link: https://www.lib.uidaho.edu/digital/
 organization-logo-banner: https://www.lib.uidaho.edu/media/digital/justdi_logo_sm.png
 organization-logo-nav: https://www.lib.uidaho.edu/media/digital/bannerlogo_allwhite.png
