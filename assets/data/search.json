@@ -1,8 +1,9 @@
 ---
 # json for ingest into search index
 #
-# add note to index full-text of all PDFs?
-full-text: true
+# set all PDFs to index full-text?
+pdf-full-text: true
+# alternatively, use a "full-text" column in the metadata with "true" to select items individually
 ---
 {%- assign items = site.data[site.metadata] | where_exp: 'item','item.objectid' -%}
 {%- assign raw-dates = items | map: 'date' | compact | uniq -%}
@@ -42,7 +43,7 @@ full-text: true
                 {% if item.image_thumb %}"thumb": "{{ item.image_thumb | absolute_url }}",{% endif %}
                 {% if item.object_transcript %}"transcript": {% assign transcript_type = page.object_transcript | slice: 0,8 %}{% if transcript_type == 'objects/' %}{% assign transcript = site.pages | where: 'path',page.object_transcript | first %}{{ transcript.content | markdownify | jsonify }}{% else %}{{ page.object_transcript | markdownify | jsonfiy }}{% endif %},{% endif %}
                 {% if item.object_location %}"file": "{{ item.object_location | absolute_url }}",{% endif %}
-                {% if full-text == true and item.format contains 'pdf' %}"text": true,{% elsif item.full-text == true %}"text": true,{% endif %}
+                {% if page.pdf-full-text == true and item.format contains 'pdf' %}"text": true,{% elsif item.full-text == true %}"text": true,{% endif %}
                 "collectionid": "{{ site.baseurl | slugify }}",
                 "objectid": "{% if item.parentid %}{{ item.parentid }}#{% endif %}{{ item.objectid }}",
                 "url": "{{ '/items/' | absolute_url }}{% if item.parentid %}{{ item.parentid }}.html#{{ item.objectid }}{% else %}{{ item.objectid }}.html{% endif %}"
